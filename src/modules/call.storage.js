@@ -1,4 +1,4 @@
-/*eslint-disable*/
+/*eslint-disablej*/
 import { mytasks } from '../index.js';
 
 const shop = () => {

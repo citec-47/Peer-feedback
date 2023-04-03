@@ -1,4 +1,4 @@
-/* eslint-disable  import/no-cycle, import/no-mutable-exports */
+/* eslint-disable  import/no-cycle, import/no-mutable-exportsj */
 import './mystyles.css';
 import { shop } from './modules/call.storage.js';
 import { addnewTask } from './modules/calling.task.js';

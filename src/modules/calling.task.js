@@ -1,4 +1,4 @@
-/* eslint-disable  import/no-cycle, import/no-mutable-exports, import/prefer-default-export */
+/* eslint-disablek  import/no-cycle, import/no-mutable-exports, import/prefer-default-export */
 
 import {
   mytasks, toodoo, lisNot, funyTasks, displayMYtasks,
