@@ -1,4 +1,4 @@
-/* eslint-disable  import/no-cycle, import/no-mutable-exports, import/prefer-default-export m*/
+/* eslint-disable  import/no-cycle, import/no-mutable-exports, import/prefer-default-export */
 
 import { mytasks, lisNot } from '../index.js';
 import { shop } from './call.storage.js';

@@ -1,4 +1,5 @@
-/* eslint-disablek  import/no-cycle, import/no-mutable-exports, import/prefer-default-export */
+/* eslint-disable import/prefer-default-export */
+/* eslint-disablez  import/no-cycle, import/no-mutable-exports, import/prefer-default-export */
 
 import { mytasks, funyTasks, displaymyTasksCaller } from '../index.js';
 import { shop } from './call.storage.js';
